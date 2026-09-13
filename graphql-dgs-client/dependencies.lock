@@ -445,7 +445,7 @@
             "locked": "25.0"
         },
         "com.graphql-java:graphql-java-extended-scalars": {
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -1014,7 +1014,7 @@
             "locked": "25.0"
         },
         "com.graphql-java:graphql-java-extended-scalars": {
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -1221,7 +1221,7 @@
             "locked": "25.0"
         },
         "com.graphql-java:graphql-java-extended-scalars": {
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -1435,7 +1435,7 @@
             "locked": "25.0"
         },
         "com.graphql-java:graphql-java-extended-scalars": {
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
