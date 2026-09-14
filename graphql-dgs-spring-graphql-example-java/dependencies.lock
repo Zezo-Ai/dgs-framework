@@ -751,7 +751,7 @@
             "firstLevelTransitive": [
                 "com.netflix.graphql.dgs:graphql-dgs-extended-scalars"
             ],
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -1383,7 +1383,7 @@
             "firstLevelTransitive": [
                 "com.netflix.graphql.dgs:graphql-dgs-extended-scalars"
             ],
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -1724,7 +1724,7 @@
             "firstLevelTransitive": [
                 "com.netflix.graphql.dgs:graphql-dgs-extended-scalars"
             ],
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -1957,7 +1957,7 @@
             "firstLevelTransitive": [
                 "com.netflix.graphql.dgs:graphql-dgs-extended-scalars"
             ],
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
@@ -2231,7 +2231,7 @@
             "firstLevelTransitive": [
                 "com.netflix.graphql.dgs:graphql-dgs-extended-scalars"
             ],
-            "locked": "22.0"
+            "locked": "24.0"
         },
         "com.graphql-java:java-dataloader": {
             "firstLevelTransitive": [
